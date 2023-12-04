@@ -1,2 +1,2 @@
 # NSC
-The codebase accompyning the paper: 
+The codebase accompanying the paper:
